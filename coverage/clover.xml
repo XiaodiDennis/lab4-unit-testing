@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1746181888938" clover="3.2.0">
+  <project timestamp="1746181888939" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="7" coveredconditionals="7" methods="6" coveredmethods="6" elements="27" coveredelements="27" complexity="0" loc="14" ncloc="14" packages="1" files="3" classes="3"/>
+    <file name="BankAccount.js" path="/Users/dennishsiaotiwang/Library/CloudStorage/OneDrive-Personal/BSc in Software Engineering Courses/BSc in Software Engineering Semester 2/09_COMPONENTS_OF_SOFTWARE_ENGINEERING/Lab_4/lab4-unit-testing/BankAccount.js">
+      <metrics statements="8" coveredstatements="8" conditionals="3" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="add.js" path="/Users/dennishsiaotiwang/Library/CloudStorage/OneDrive-Personal/BSc in Software Engineering Courses/BSc in Software Engineering Semester 2/09_COMPONENTS_OF_SOFTWARE_ENGINEERING/Lab_4/lab4-unit-testing/add.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+    <file name="isEven.js" path="/Users/dennishsiaotiwang/Library/CloudStorage/OneDrive-Personal/BSc in Software Engineering Courses/BSc in Software Engineering Semester 2/09_COMPONENTS_OF_SOFTWARE_ENGINEERING/Lab_4/lab4-unit-testing/isEven.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="5" count="9" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
